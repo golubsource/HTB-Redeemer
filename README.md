@@ -1,4 +1,4 @@
-# Hack The Box Redeemer — Write-up
+# Hack The Box - Redeemer 
 <img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/6b253b69-f310-4008-af7e-dc41b4f59e12" />
 
 ## Introduction
